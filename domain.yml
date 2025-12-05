@@ -26,7 +26,7 @@ responses:
     - text: "Hello! How can I help you today?"
 
   utter_ask_name:
-    - text: "I am YAKO, your virtual assistant. What is your name?"
+    - text: "I am Chatpot, your virtual assistant. What is your name?"
 
   utter_help:
     - text: "I can help you with product information or general questions. What do you need assistance with?"
